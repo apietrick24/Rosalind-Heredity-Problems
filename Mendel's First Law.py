@@ -23,14 +23,14 @@ pro_homo_rec_second = homo_rec / sample_space_second
 
 """
 Key
-D - Domain Allele
+D - Dominant Allele
 d - Recessive Allele
-a - Either Domain or Recessive Allele
+a - Either Dominant or Recessive Allele (Note: Commutative, so Da = aD)
 
-DD - Homozygous Domain
+DD - Homozygous Dominant
 Dd - Heterozygous
 dd - Homozygous Recessive
-A - Either Homozygous Domain, Heterozygous or Homozygous Recessive
+A - Either Homozygous Dominant, Heterozygous or Homozygous Recessive
 """
 
 # P(A1 x A2 -> Da | A1 = DD) = P(DD x DD -> Da) + P(DD x Dd -> Da) + P(DD x dd -> Da)
