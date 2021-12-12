@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5dd2baf-1c0f-4eee-8325-01296fcaf125" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Rosalind Heredity Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rosalind Heredity Problems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Independent Alleles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Independent Alleles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mendel's First Law.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mendel's First Law.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
