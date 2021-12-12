@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b5dd2baf-1c0f-4eee-8325-01296fcaf125" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Rosalind Heredity Problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rosalind Heredity Problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Independent Alleles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Independent Alleles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mendel's First Law.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mendel's First Law.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Independent Alleles">
+  <component name="RunManager" selected="Python.Sex-Linked Inheritance">
     <configuration name="Calculating Expected Offspring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rosalind Heredity Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +87,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Independent Segregation of Chromosomes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Rosalind Heredity Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Independent Segregation of Chromosomes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Mendel's First Law" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Rosalind Heredity Problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,11 +129,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Sex-Linked Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Rosalind Heredity Problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sex-Linked Inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sex-Linked Inheritance" />
         <item itemvalue="Python.Independent Alleles" />
-        <item itemvalue="Python.Calculating Expected Offspring" />
         <item itemvalue="Python.Mendel's First Law" />
+        <item itemvalue="Python.Independent Segregation of Chromosomes" />
+        <item itemvalue="Python.Calculating Expected Offspring" />
       </list>
     </recent_temporary>
   </component>
@@ -139,49 +186,58 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="283" key="FileChooserDialogImpl" timestamp="1638756370799">
+    <state x="533" y="283" key="FileChooserDialogImpl" timestamp="1639334104498">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="533" y="283" key="FileChooserDialogImpl/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638756370799" />
-    <state width="1303" height="137" key="GridCell.Tab.0.bottom" timestamp="1638757519821">
+    <state x="533" y="283" key="FileChooserDialogImpl/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1639334104498" />
+    <state width="1171" height="119" key="GridCell.Tab.0.bottom" timestamp="1639340698917">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1303" height="137" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638757519821" />
-    <state width="1303" height="137" key="GridCell.Tab.0.center" timestamp="1638757519821">
+    <state width="1171" height="119" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1639340698917" />
+    <state width="1322" height="239" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1638900369209" />
+    <state width="1171" height="119" key="GridCell.Tab.0.center" timestamp="1639340698916">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1303" height="137" key="GridCell.Tab.0.center/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638757519821" />
-    <state width="1303" height="137" key="GridCell.Tab.0.left" timestamp="1638757519820">
+    <state width="1171" height="119" key="GridCell.Tab.0.center/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1639340698916" />
+    <state width="1322" height="239" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1638900369208" />
+    <state width="1171" height="119" key="GridCell.Tab.0.left" timestamp="1639340698915">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1303" height="137" key="GridCell.Tab.0.left/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638757519820" />
-    <state width="1303" height="137" key="GridCell.Tab.0.right" timestamp="1638757519821">
+    <state width="1171" height="119" key="GridCell.Tab.0.left/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1639340698915" />
+    <state width="1322" height="239" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1638900369207" />
+    <state width="1171" height="119" key="GridCell.Tab.0.right" timestamp="1639340698916">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1303" height="137" key="GridCell.Tab.0.right/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638757519821" />
-    <state width="1303" height="269" key="GridCell.Tab.1.bottom" timestamp="1638755794402">
+    <state width="1171" height="119" key="GridCell.Tab.0.right/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1639340698916" />
+    <state width="1322" height="239" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1638900369208" />
+    <state width="1322" height="239" key="GridCell.Tab.1.bottom" timestamp="1638900369212">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1303" height="269" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638755794402" />
-    <state width="1303" height="269" key="GridCell.Tab.1.center" timestamp="1638755794401">
+    <state width="1322" height="239" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1638900369212" />
+    <state width="1322" height="239" key="GridCell.Tab.1.center" timestamp="1638900369210">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1303" height="269" key="GridCell.Tab.1.center/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638755794401" />
-    <state width="1303" height="269" key="GridCell.Tab.1.left" timestamp="1638755794401">
+    <state width="1322" height="239" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1638900369210" />
+    <state width="1322" height="239" key="GridCell.Tab.1.left" timestamp="1638900369210">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1303" height="269" key="GridCell.Tab.1.left/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638755794401" />
-    <state width="1303" height="269" key="GridCell.Tab.1.right" timestamp="1638755794401">
+    <state width="1322" height="239" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1638900369210" />
+    <state width="1322" height="239" key="GridCell.Tab.1.right" timestamp="1638900369211">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1303" height="269" key="GridCell.Tab.1.right/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638755794401" />
-    <state x="204" y="96" key="SettingsEditor" timestamp="1638756410534">
+    <state width="1322" height="239" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1638900369211" />
+    <state x="171" y="34" key="SettingsEditor" timestamp="1639334301675">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="204" y="96" key="SettingsEditor/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638756410534" />
-    <state x="367" y="219" width="670" height="676" key="search.everywhere.popup" timestamp="1638676350316">
+    <state x="171" y="34" key="SettingsEditor/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1639334301675" />
+    <state x="367" y="219" width="670" height="676" key="search.everywhere.popup" timestamp="1638899106222">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="367" y="219" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/1440.-119.1920.1057@0.23.1440.877" timestamp="1638676350316" />
+    <state x="367" y="219" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1638899106222" />
   </component>
 </project>
